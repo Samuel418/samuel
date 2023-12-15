@@ -2,4 +2,4 @@
 #billing software
 
 
-I have developed a billing software for my father company raj corporation
+I have developed a billing software for my father's company raj corporation
