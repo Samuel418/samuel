@@ -1,0 +1,3 @@
+Metal Paste,1000,5
+Wooden Floor,1400,0
+Wooden Putt,800,20
